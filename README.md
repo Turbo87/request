@@ -2,6 +2,8 @@
 
 [![NPM](https://nodei.co/npm/request.png)](https://nodei.co/npm/request/)
 
+[![Build Status](https://travis-ci.org/mikeal/request.png)](https://travis-ci.org/mikeal/request)
+
 ## Super simple to use
 
 Request is designed to be the simplest way possible to make http calls. It supports HTTPS and follows redirects by default.
